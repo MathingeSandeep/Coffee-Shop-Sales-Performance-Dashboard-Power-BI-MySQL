@@ -6,15 +6,15 @@ This project presents an end-to-end data analysis using Power BI on a coffee sho
 
 ## Tools & Technologies Used
 
-- Power BI Desktop – Dashboard design & KPI visualization
+- **Power BI Desktop** – Dashboard design & KPI visualization
 
-- Power Query Editor – Data transformation and cleaning
+- **Power Query Editor** – Data transformation and cleaning
 
-- MySQL – Data querying and aggregation
+- **MySQL** – Data querying and aggregation
 
-- Excel (CSV) – Source format used for data extraction and preview
+- **Excel** (CSV) – Source format used for data extraction and preview
 
-- DAX (Data Analysis Expressions) – KPI creation and calculated metrics
+- **DAX** (Data Analysis Expressions) – KPI creation and calculated metrics
 
 ## Dataset Description
 
@@ -76,39 +76,39 @@ Monitor and compare monthly sales performance across store branches, identify hi
 
 ### KPIs & Metrics:
 
-- Total Sales: $76K (▼ -6.8% vs previous month)
+- **Total Sales:** $76K (▼ -6.8% vs previous month)
 
-- Total Orders: 16K (▼ -5.5%)
+- **Total Orders:** 16K (▼ -5.5%)
 
-- Total Quantity Sold: 24K (▼ -5.3%)
+- **Total Quantity Sold:** 24K (▼ -5.3%)
 
-- Average Daily Sales: $2.7K
+- **Average Daily Sales:** $2.7K
 
 ### Key Visuals:
 
-- Sales by Store Location: Top locations – Hell’s Kitchen ($25.7K), Lower Manhattan ($25.3K), Astoria ($25.1K)
+- **Sales by Store Location:** Top locations – Hell’s Kitchen ($25.7K), Lower Manhattan ($25.3K), Astoria ($25.1K)
 
-- Sales by Product Category: Coffee ($29.3K), Tea ($21.7K), Bakery ($9.0K), Drinking Chocolate ($8.1K)
+- **Sales by Product Category:** Coffee ($29.3K), Tea ($21.7K), Bakery ($9.0K), Drinking Chocolate ($8.1K)
 
-- Top Products: Barista Espresso ($10K), Brewed Chai Tea ($8.4K), Hot Chocolate ($8.1K)
+- **Top Products:** Barista Espresso ($10K), Brewed Chai Tea ($8.4K), Hot Chocolate ($8.1K)
 
-- Sales by Weekday vs Weekend: Weekdays – 70.9% ($54K); Weekends – 29.1% ($22K)
+- **Sales by Weekday vs Weekend:** Weekdays – 70.9% ($54K); Weekends – 29.1% ($22K)
 
-- Hourly Heatmap: Highest sales between 8 AM and 11 AM
+- **Hourly Heatmap:** Highest sales between 8 AM and 11 AM
 
 ### Key Insights
 
-- Sales Dip: Overall sales decreased by 6.8% compared to the last month, affecting all three store locations.
+- **Sales Dip:** Overall sales decreased by 6.8% compared to the last month, affecting all three store locations.
 
-- Customer Behavior: Weekday mornings saw peak sales due to work-hour beverage demand.
+- **Customer Behavior:** Weekday mornings saw peak sales due to work-hour beverage demand.
 
-- Top Performing Items: Coffee and Tea together contributed over 65% of total sales.
+- **Top Performing Items:** Coffee and Tea together contributed over 65% of total sales.
 
-- Store Comparison: All stores performed similarly; Hell’s Kitchen slightly led.
+- **Store Comparison:** All stores performed similarly; Hell’s Kitchen slightly led.
 
-- Growth Opportunity: Packaged and branded products showed low sales—potential for promotional bundles.
+- **Growth Opportunity:** Packaged and branded products showed low sales—potential for promotional bundles.
 
-- Operational Insight: Staffing and inventory can be optimized during morning rush hours.
+- **Operational Insight:** Staffing and inventory can be optimized during morning rush hours.
 
 ## Screenshot
 
